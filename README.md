@@ -1,5 +1,5 @@
 # 📌 Smart_Code_Manager
-Smart Code Manager is a simple yet powerful tool that helps developers quickly generate pre-structured code templates. Users can select a programming language, provide a filename and description, and the system will create the corresponding file with a predefined template.
+Smart Code Manager is a simple yet powerfu tool that helps developers create code files quickly. Users just need to choose a programming language, enter a filename and a short description, and the tool will generate a file with ready-to-use code. This saves time and makes coding easier
 
 ## ✨ Key Features
 - Supports multiple programming languages, including C, C++, Java, Python, JavaScript, PHP, and more.
