@@ -15,18 +15,17 @@ Smart Code Manager is a simple yet powerful tool that helps developers quickly g
 - **HTML & CSS** – Creates a modern and responsive UI
   
 ## 📂 Project Structure  
-/Smart-Code-Manager
-│── app.py # Flask Backend
-│── run.sh # Start script
-│── setup.sh # Setup script
-│── requirements.txt # Dependencies
-│── templates/ # HTML files
-│── static/ # CSS, JavaScript
-│── scripts/ # Shell scripts for file creation
-│── generated_files/ # Stores generated files
-│── old_versions/ # Backup folder
-│── precode/ # Code templates for different languages
-
+Smart-Code-Manager/
+│── app.py → Flask Backend
+│── run.sh → Start script
+│── setup.sh → Setup script
+│── requirements.txt → Dependencies
+│── templates/ → HTML files
+│── static/ → CSS, JavaScript
+│── scripts/ → Shell scripts for file creation
+│── generated_files/ → Stores generated files
+│── old_versions/ → Backup folder
+│── precode/ → Code templates for different languages
 ## 📜 Usage
 - Enter a filename and description.
 - Choose a programming language.
