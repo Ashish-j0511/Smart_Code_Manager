@@ -9,6 +9,11 @@ Smart Code Manager is a simple yet powerful tool that helps developers quickly g
 - Features a modern, responsive, and dark-themed user interface.
 - Optimized for ***Linux environments, tested on Oracle Linux***.
 
+## 🚀 Technologies Used  
+- **Bash (Shell Scripting)** – Automates file creation and management  
+- **Python (Flask)** – Handles the backend and executes shell scripts  
+- **HTML, CSS, JavaScript** – Creates a modern and responsive UI  
+
 ## 📜 Usage
 - Enter a filename and description.
 - Choose a programming language.
