@@ -10,10 +10,10 @@ Smart Code Manager is a simple yet powerful tool that helps developers quickly g
 -Optimized for Linux environments, tested on Oracle Linux.
 
 ## 📜 Usage
-Enter a filename and description.
-Choose a programming language.
-Click Create File to generate a pre-written template.
-The file will be saved inside the generated_files/ directory.
+-Enter a filename and description.
+-Choose a programming language.
+-Click Create File to generate a pre-written template.
+-The file will be saved inside the generated_files/ directory.
 
 ## 📌 Supported Languages
 C (.c)
