@@ -7,7 +7,7 @@ Smart Code Manager is a simple yet powerful tool that helps developers quickly g
 - Uses Flask for backend processing, ensuring efficient request handling.
 - Integrates Shell scripting to automate file creation seamlessly.
 - Features a modern, responsive, and dark-themed user interface.
-- Optimized for Linux environments, tested on Oracle Linux.
+- Optimized for ***Linux environments, tested on Oracle Linux***.
 
 ## 📜 Usage
 - Enter a filename and description.
