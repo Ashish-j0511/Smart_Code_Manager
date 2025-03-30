@@ -33,6 +33,9 @@ Assembly (.asm)
 ![Home Page](https://github.com/Ashish-j0511/Smart_Code_Manager/blob/863939c7c9712045bcea87fa58705d7f5697254c/Home_page.png)
 
 ### 📝 Code Generation Page
-![Code Generation](static/images/screenshot2.png)
+![Code Generation](https://github.com/Ashish-j0511/Smart_Code_Manager/blob/1e07adcd97b20e51740dfb1ff84de82f9e79ab38/Code_generating_page.png)
+
+### Backup Code Page
+![Backup Code Page](https://github.com/Ashish-j0511/Smart_Code_Manager/blob/1e07adcd97b20e51740dfb1ff84de82f9e79ab38/Code_generating_page.png)
 
 
