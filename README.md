@@ -12,7 +12,7 @@ Smart Code Manager is a simple yet powerful tool that helps developers quickly g
 ## 🚀 Technologies Used  
 - **Bash (Shell Scripting)** – Automates file creation and management  
 - **Python (Flask)** – Handles the backend and executes shell scripts  
-- **HTML, CSS, JavaScript** – Creates a modern and responsive UI  
+- **HTML & CSS** – Creates a modern and responsive UI  
 
 ## 📜 Usage
 - Enter a filename and description.
