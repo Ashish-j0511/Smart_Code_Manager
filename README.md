@@ -30,7 +30,7 @@ Assembly (.asm)
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](static/images/screenshot1.png)
+![Home Page](https://github.com/Ashish-j0511/Smart_Code_Manager/blob/863939c7c9712045bcea87fa58705d7f5697254c/Home_page.png)
 
 ### 📝 Code Generation Page
 ![Code Generation](static/images/screenshot2.png)
